@@ -1,0 +1,4 @@
+fastapi
+fastapi-pagination
+fastapi-utils
+uvicorn
